@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+
+# Generated project audio and video
+projects/*/data/narration.wav
+projects/*/data/mix.wav
+projects/*/review/
+projects/*/renders/

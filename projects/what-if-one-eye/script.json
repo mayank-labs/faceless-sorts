@@ -1,0 +1,27 @@
+{
+  "title": "What Happens If Humans Had One Eye?",
+  "voice": "am_michael",
+  "speed": 1.0,
+  "lead": 0.35,
+  "outro": 1.0,
+  "gap": 0.26,
+  "music": "bed",
+  "sources": [
+    "American Academy of Ophthalmology, 'Depth Perception': binocular convergence and stereopsis provide depth; monocular vision uses other cues and can adapt",
+    "PMC 11262539 (2024), 'Comparison of Depth-Related Visuomotor Task Performance': dynamic depth-related tasks are harder without binocular viewing",
+    "NCBI, 'Induction of Monocular Stereopsis by Altering Focus Distance': the visual system can gain some depth impression through monocular focus changes",
+    "American Academy of Ophthalmology, guidance for people with monocular vision: adaptation is possible, but the seeing eye requires protection"
+  ],
+  "lines": [
+    { "text": "What happens if humans had only one eye?", "caps": "What *happens | if humans | had *one eye?" },
+    { "text": "At first, your world would look almost normal.", "caps": "Almost *normal | at *first" },
+    { "text": "You would still see shapes, colors, and movement.", "caps": "Shapes *and | colors *and | *movement" },
+    { "text": "But you would lose binocular depth perception,", "caps": "Lose *binocular | *depth perception" },
+    { "text": "the tiny difference between the images your two eyes receive.", "caps": "A tiny *difference | between two *eyes" },
+    { "text": "Reaching for a cup, parking a car, or catching a ball could become harder.", "caps": "A *cup | a *car | catching a *ball" },
+    { "text": "You would rely more on shadows, motion, size, and changes in focus.", "caps": "Use *shadows | *motion | *size | and *focus" },
+    { "text": "Those monocular cues give the brain useful clues about distance.", "caps": "The *brain | gets *distance | from *clues" },
+    { "text": "People with one eye often adapt, and many live and move normally.", "caps": "Many people | *adapt | and live *normally" },
+    { "text": "The biggest change would not be sight, but judging depth at a glance.", "caps": "Not *sight | but *depth | at a *glance", "gap": 0.2 }
+  ]
+}

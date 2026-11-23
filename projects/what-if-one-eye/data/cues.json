@@ -1,0 +1,50 @@
+{
+ "duration": 39.254,
+ "cues": [
+  {
+   "t": 0,
+   "type": "whoosh"
+  },
+  {
+   "t": 2.839,
+   "type": "whoosh"
+  },
+  {
+   "t": 5.699,
+   "type": "whoosh"
+  },
+  {
+   "t": 8.392,
+   "type": "whoosh"
+  },
+  {
+   "t": 11.332,
+   "type": "whoosh"
+  },
+  {
+   "t": 15.09,
+   "type": "whoosh"
+  },
+  {
+   "t": 19.865,
+   "type": "whoosh"
+  },
+  {
+   "t": 24.754,
+   "type": "whoosh"
+  },
+  {
+   "t": 29.557,
+   "type": "whoosh"
+  },
+  {
+   "t": 33.938,
+   "type": "whoosh"
+  },
+  {
+   "t": 34.238,
+   "type": "slam",
+   "gain": 0.7
+  }
+ ]
+}
